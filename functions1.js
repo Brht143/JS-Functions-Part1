@@ -10,7 +10,6 @@ function printName() {
 }
 
 function printAge(yearOfBirth) {
-    
     let age = currentYear - yearOfBirth;
     console.log(age);
 }
